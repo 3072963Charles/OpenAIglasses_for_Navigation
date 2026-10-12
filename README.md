@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner_sw.svg" width="100%" alt="明眸 BrightEyes · AI 智能导盲眼镜系统"/>
+  <img src="assets/banner.svg" width="100%" alt="明眸 BrightEyes · AI 智能导盲眼镜系统"/>
 </div>
 
 <p align="center">
