@@ -1,0 +1,38 @@
+# ---- 密钥与本地配置 ----
+.env
+
+# ---- 模型文件（从 ModelScope 下载，见 README）----
+model/
+*.pt
+*.task
+*.ts
+
+# ---- 测试录音 / 录像（本地数据，不入库）----
+recordings/
+*.avi
+
+# ---- ESP32 预编译固件（官方渠道下载）----
+firmware/
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ---- IDE / 环境 ----
+.idea/
+.vscode/
+.claude/
+.DS_Store
+Thumbs.db
+
+# ---- 日志 ----
+*.log
+
+# ---- 内部文档（答辩 / 宣传材料）----
+宣传手册.pdf
+*答辩*.pptx
+
+# ---- fange 旧 git 历史备份（项目外）----
+.git_fange_backup
